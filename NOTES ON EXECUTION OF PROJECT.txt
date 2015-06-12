@@ -1,0 +1,27 @@
+General notes:
+
+• Image of Vaas (main charater) created by Ubisoft themselves so I assume they would let me use it comercially (the only editing I did was cut the face out of a background using the pen tool).
+	- URL: http://far-cry.ubi.com/fc-portal/en-gb/community/detail_news.aspx?c=tcm:21-65299&ct=tcm:6-231-32
+
+• Fonts used are free (cc) and available for desktop, tablet and mobile phone versions/use.
+	- URL: http://www.fontsquirrel.com/fonts/1942-report
+	- URL: http://fontfabric.com/bebas-neue/
+	- URL: http://www.google.com/fonts/specimen/Roboto
+
+• Far Cry logo used on takeover is the same as the one used on the provided poster except I have added a splash of blood to give it more impact.
+	- URL: http://farcry.wikia.com/wiki/File:Far_Cry_3_logo.png
+
+• Ubisoft logo sourced from:
+	- URL: http://g3ar.co.za/wp-content/uploads/2012/02/Ubisoft-logo.jpg
+
+• Quote taken from Vaas (it's one of the more memorable quotes from the game)
+	- URL: http://www.imdb.com/title/tt2321297/quotes
+
+• Platform and Pegi-18 (the game is rated pegi 18 not 16 as teh brief indicated) images were taken directly from the UBI style page:
+	- URL: http://far-cry.ubi.com/fc-portal/en-GB/home/
+
+NB: 
+
+Given the target market (users with a PC powerful enough to play Far Cry 3) I focused my design toward users with a screen of 1080p resolution or larger and scaled down for mobile from that design (rather than the norm of vice-versa). 
+
+I have chosen to disable the video on mobiles as mobile cap in NZ is very expensive and I doubt most would watch the video. Instead I have just kept the essentials.
